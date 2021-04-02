@@ -17,13 +17,13 @@
   
 <body>
 	
-<header id="header"><p>Formation Med Amine Hachicha Exam 701: DevOps Tools Engineer | LPI IIIII.</p></header>
+<header id="header"><p>Formation Med Amine Hachicha Exam 701: DevOps Tools Engineer | LPI examen.</p></header>
 	</br></br>
 
   <center> 
 	  
 	  
-	  <h1 >  Groupe devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Groupe devopss :)------------->Tests Jenkins and Sonarqube|> <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
